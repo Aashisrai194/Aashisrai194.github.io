@@ -1,3 +1,22 @@
+# Portfolio Configuration
 theme: jekyll-theme-minimal
-title: Samyak Shrestha's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Aashis Chamling - Full Stack Developer
+description: Welcome to my portfolio! Explore my projects, skills, and journey in web development. Building modern applications with Node.js, React, FastAPI, and more.
+author: Aashis Chamling
+email: aashisrai194@gmail.com
+
+# Social Links
+github_username: Aashisrai194
+instagram_username: aashis_rai10
+
+# SEO Settings
+lang: en
+timezone: Asia/Kathmandu
+
+# Site Settings
+show_downloads: false
+google_analytics: # Add your GA tracking ID if you have one
+
+# Additional Information
+tagline: Crafting scalable web solutions with clean code
+keywords: full-stack developer, web development, Node.js, React, FastAPI, Python, portfolio
